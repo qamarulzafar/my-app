@@ -5,7 +5,7 @@ import intro_img from "../images/about-img.jpg";
 const Intro = () => {
   return (
     <div className="w-full relative py-10 ">
-      <div className="main w-[90%] md:w-3/4 m-auto h-auto flex-col md:flex-row flex justify-center gap-10 items-center p-5 md:p-14 ">
+      <div className="main w-[90%] md:w-3/4 m-auto h-auto flex-col md:flex-row flex justify-center gap-10 items-center p-5 md:p-14 border-slate-950">
         <div className="side-1 md:w-1/2">
           <Image src={intro_img} alt="intro-girl" className="w-96" />
         </div>
