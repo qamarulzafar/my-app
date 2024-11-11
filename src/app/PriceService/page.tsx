@@ -1,7 +1,6 @@
 import React from "react";
 import Top from "../components/Top";
 import ServicesIOffer from "../components/ServicesIOffer";
-import strict from "assert/strict";
 import { IconType } from "react-icons";
 import {
   FaRegFileAlt,
@@ -58,7 +57,7 @@ const Page: React.FC = () => {
       <Top title="Service And Pricing" />
       <div className="head flex justify-center items-center mt-36 mb-28 font-light text-xl md:text-2xl w-3/4 md:w-1/2 text-center m-auto">
         <h2>
-          I'm a paragraph. Click here to add your own text and edit me. Let your
+          Im a paragraph. Click here to add your own text and edit me. Let your
           users get to know you.
         </h2>
       </div>

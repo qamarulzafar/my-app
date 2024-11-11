@@ -19,21 +19,21 @@ const Pricing = () => {
             plan="Basic Plan"
             price="250"
             duration="15 Hour a month"
-            validaty="Valid for a month"
+            validity="Valid for a month"
             button="Select"
           />
           <Pricingcards
             plan="Advance Plan"
             price="450"
             duration="30 Hour a month"
-            validaty="Valid for a month"
+            validity="Valid for a month"
             button="Select"
           />
           <Pricingcards
             plan="Tailored Plan"
             price="350"
             duration="Suitable For Your Needs"
-            validaty="Valid for a month"
+            validity="Valid for a month"
             button="Select"
           />
         </div>

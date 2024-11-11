@@ -1,6 +1,11 @@
 import React from 'react'
 
-const Top = (props:any) => {
+
+interface TopProps {
+  title: string;
+}
+
+const Top = (props: TopProps) => {
   return (
     <div>
         <div className="main w-full h-28 md:h-40 flex justify-center items-center bg-slate-200">
