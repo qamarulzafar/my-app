@@ -1,5 +1,4 @@
 import React from "react";
-import { FaRegFileAlt } from "react-icons/fa";
 import { IconType } from "react-icons";
 
 interface ServiceOfferProps {

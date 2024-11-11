@@ -14,11 +14,11 @@ const page = () => {
         </div>
         <div className="text w-4/5 text-center md:text-left  md:w-1/2">
           <h2 className="text-2xl my-8">
-            About Skilled Administrative Support Professional with 10 Years'
+            About Skilled Administrative Support Professional with 10 Years
             Experience
           </h2>
           <p className="font-light text-lg">
-            I'm a paragraph. Click here to add your own text and edit me. Its
+            Im a paragraph. Click here to add your own text and edit me. Its
             easy. Just click “Edit Text” or double click me to add your own
             content and make changes to the font. Feel free to drag and drop me
             anywhere you like on your page. Im a great place for you to tell a

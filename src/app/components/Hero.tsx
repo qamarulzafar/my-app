@@ -1,7 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import hero_img from "../images/hero-bg.jpg";
-import laptop from '../images/laptop.jpg'
 import bg from '../images/bg.jpg'
 
 const Hero = () => {
@@ -15,7 +13,7 @@ const Hero = () => {
                 at Your Service</h2>
             </div>
             <div className="para">
-                <p className=" my-5 md:my-7 md:text-2xl font-light">Im a title. ​Click here to edit me.</p>
+                <p className=" my-5 md:my-7 md:text-2xl font-light">Im a title. Click here to edit me.</p>
             </div>
             <div className="button">
                 <button className="px-6 py-3 bg-amber-600">See Services</button>

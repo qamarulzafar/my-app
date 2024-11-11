@@ -10,7 +10,7 @@ const Pricing = () => {
             Pricing Plan
           </h2>
           <p className="font-light w-3/4 md:w-1/2 my-8 text-center text:xl md:text-2xl ">
-            I'm a paragraph. Click here to add your own text and edit me. Let
+            m a paragraph. Click here to add your own text and edit me. Let
             your users get to know you.
           </p>
         </div>

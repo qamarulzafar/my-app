@@ -62,7 +62,7 @@ const Services:React.FC = () => {
             What Can I Do For You?
           </h2>
           <p className="font-light text-center mt-7 text:xl md:text-2xl w-3/4  md:w-1/2 mx-auto ">
-            I'm a paragraph. Click here to add your own text and edit me. Let
+            Im a paragraph. Click here to add your own text and edit me. Let
             your users get to know you.
           </p>
         </div>
