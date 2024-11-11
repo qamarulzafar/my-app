@@ -1,7 +1,7 @@
 import React from "react";
 import Top from "../components/Top";
 import Image from "next/image";
-import about_img from "../images/about-img.webp"
+import about_img from "../images/about-img.jpg"
 
 
 const page = () => {
