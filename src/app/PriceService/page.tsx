@@ -18,7 +18,7 @@ interface ServiceOfferProps {
   des: string;
 }
 
-const ServiceOffer = [
+const ServiceOffer: ServiceOfferProps[] = [
   {
     Icon: FaRegFileAlt,
     Name: "Administrative Support",
