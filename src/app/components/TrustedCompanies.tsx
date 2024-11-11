@@ -48,11 +48,11 @@ const CardReview: CardProps[] = [
 const TrustedCompanies: React.FC = () => {
   return (
     <>
-      <div className="main w-full min-h-screen bg-slate-800">
+      <div className="main w-full h-auto bg-slate-800">
         <h2 className="text-white text-center text-2xl md:text-4xl font-bold w-3/4 md:w-1/2 m-auto py-20">
           Trusted by Companies and Entrepreneurs Throughout the Country
         </h2>
-        <div className="companies flex flex-wrap justify-evenly w-full pb-60 items-center md:flex-row flex-col">
+        <div className="companies flex flex-wrap justify-evenly w-full pb-60 items-center lg:flex-row flex-col">
           <Image
             src={compani1}
             alt="compani1"
